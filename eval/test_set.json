@@ -1,0 +1,152 @@
+[
+  {
+    "question": "my wifi keeps cutting off",
+    "expected_title": "Wi-Fi keeps disconnecting",
+    "type": "answerable"
+  },
+  {
+    "question": "how do I reset my router",
+    "expected_title": "How to reset the router to factory settings",
+    "type": "answerable"
+  },
+  {
+    "question": "i forgot my wifi password",
+    "expected_title": "Forgot the Wi-Fi password",
+    "type": "answerable"
+  },
+  {
+    "question": "I can't log in to the router settings, forgot the admin password",
+    "expected_title": "Forgot the router admin (login) password",
+    "type": "answerable"
+  },
+  {
+    "question": "what does the red internet light mean",
+    "expected_title": "What do the router LED lights mean",
+    "type": "answerable"
+  },
+  {
+    "question": "connected to wifi but websites will not load",
+    "expected_title": "Connected to Wi-Fi but no internet access",
+    "type": "answerable"
+  },
+  {
+    "question": "my internet is very slow",
+    "expected_title": "Slow Wi-Fi speed",
+    "type": "answerable"
+  },
+  {
+    "question": "how to upgrade router firmware",
+    "expected_title": "How to update the router firmware",
+    "type": "answerable"
+  },
+  {
+    "question": "change my wifi name",
+    "expected_title": "How to change the Wi-Fi name and password",
+    "type": "answerable"
+  },
+  {
+    "question": "open a port for my game server",
+    "expected_title": "How to set up port forwarding",
+    "type": "answerable"
+  },
+  {
+    "question": "192.168.0.1 page will not open",
+    "expected_title": "Cannot open the router admin page",
+    "type": "answerable"
+  },
+  {
+    "question": "let visitors use wifi without my main password",
+    "expected_title": "How to set up a guest network",
+    "type": "answerable"
+  },
+  {
+    "question": "limit my kids internet time",
+    "expected_title": "How to set up parental controls",
+    "type": "answerable"
+  },
+  {
+    "question": "prioritize my work laptop over other devices",
+    "expected_title": "How to set up QoS (prioritize devices)",
+    "type": "answerable"
+  },
+  {
+    "question": "can I run a VPN on the router",
+    "expected_title": "How to set up a VPN on the router",
+    "type": "answerable"
+  },
+  {
+    "question": "turn on ipv6",
+    "expected_title": "How to enable IPv6",
+    "type": "answerable"
+  },
+  {
+    "question": "connect a device with the WPS button",
+    "expected_title": "How to use WPS to connect a device",
+    "type": "answerable"
+  },
+  {
+    "question": "use google dns 8.8.8.8",
+    "expected_title": "How to change DNS settings",
+    "type": "answerable"
+  },
+  {
+    "question": "use my router as a wifi extender access point",
+    "expected_title": "How to use the router as an access point (bridge mode)",
+    "type": "answerable"
+  },
+  {
+    "question": "block a specific device from my network",
+    "expected_title": "How to block a device with MAC filtering",
+    "type": "answerable"
+  },
+  {
+    "question": "always give my printer the same IP address",
+    "expected_title": "How to reserve an IP address for a device (DHCP reservation)",
+    "type": "answerable"
+  },
+  {
+    "question": "should I use 2.4GHz or 5GHz",
+    "expected_title": "2.4 GHz vs 5 GHz: which band should I use",
+    "type": "answerable"
+  },
+  {
+    "question": "router is very hot to touch",
+    "expected_title": "Router is hot or overheating",
+    "type": "answerable"
+  },
+  {
+    "question": "router has no lights and will not power on",
+    "expected_title": "Router will not turn on",
+    "type": "answerable"
+  },
+  {
+    "question": "save my router configuration before resetting",
+    "expected_title": "How to back up and restore router settings",
+    "type": "answerable"
+  },
+  {
+    "question": "I can't see my 5GHz network",
+    "expected_title": "5 GHz Wi-Fi network is not showing up",
+    "type": "answerable"
+  },
+  {
+    "question": "how to make my wifi more secure",
+    "expected_title": "How to secure your Wi-Fi network",
+    "type": "answerable"
+  },
+  {
+    "question": "what is the capital of France",
+    "expected_title": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "write me a poem about the ocean",
+    "expected_title": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "how do I install Python on Windows",
+    "expected_title": null,
+    "type": "unanswerable"
+  }
+]
